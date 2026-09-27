@@ -1,0 +1,6 @@
+{
+  "name": "School Workshop Reservation & Academic Calendar",
+  "description": "ระบบจองวันและสถานที่จัด workshop ภายในโรงเรียน ตรวจสอบการชนกับปฏิทินกิจกรรมโรงเรียนอัตโนมัติ รองรับการนำเข้าไฟล์ Excel และระบบอนุมัติสำหรับเจ้าหน้าที่บนมือถือ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
